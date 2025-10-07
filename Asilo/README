@@ -1,0 +1,38 @@
+# 🏠 Sistema Web para Asilos de Ancianos
+
+Este proyecto es un sitio web desarrollado para la gestión y presentación de información de **hogares de ancianos**, con funciones básicas de registro, inicio de sesión y administración de datos.
+
+## 🌟 Descripción General
+
+El sistema fue diseñado para facilitar la comunicación y administración dentro de hogares de ancianos, permitiendo a los encargados y visitantes acceder a información relevante de forma sencilla y moderna.
+
+El sitio incluye páginas de presentación, un formulario de inicio de sesión y otro de registro con campos personalizados como nombre de usuario y número de teléfono.
+
+---
+
+## ⚙️ Funcionalidades Principales
+
+- 🧓 Página principal informativa sobre el asilo  
+- 🔐 Formulario de **inicio de sesión** con validación básica  
+- 📝 Formulario de **registro** con campos:
+  - Nombre completo  
+  - Usuario  
+  - Teléfono  
+  - Correo electrónico  
+  - Contraseña  
+- 📄 Diseño adaptable (responsive)  
+- 💾 Conexión con base de datos (si se implementa en versión extendida)
+
+---
+
+## 🧰 Tecnologías Utilizadas
+
+- **HTML5** y **CSS3** → estructura y diseño visual  
+- **JavaScript** → validación y dinámica en formularios  
+- **PHP** → manejo del registro e inicio de sesión  
+- **MySQL** → base de datos para almacenar usuarios (versión funcional)
+
+---
+
+## 🧩 Estructura del Proyecto
+
