@@ -1,2 +1,2 @@
-Portafolio 
+PORTAFOLIO 
 Repositorio de presentacion de los proyectos realizados. 
